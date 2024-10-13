@@ -44,7 +44,7 @@ You can compile and run the program using a C++ compiler such as `g++`. Follow t
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git](https://github.com/dondangp/data_structures_C.git
+   git clone https://github.com/dondangp/data_structures_C.git
    cd data_structures_C
    ```
 2. **Compiling the program**
