@@ -36,6 +36,7 @@ A singly linked list is a linear data structure where each node points to the ne
 - `singly_linked_list.cpp`: Implementation of the Singly Linked List data structure.
 - `main.cpp`: Demonstrates the usage of the Stack, Queue, and Singly Linked List.
 - `quicksort.py`: Leverage implementation of quicksort to implement the ith order statistic with a working example.
+- `stack_queue_linkedlists.c`: C version for queue, stack, and singly linked list.
 
 ## How to Compile and Run
 
